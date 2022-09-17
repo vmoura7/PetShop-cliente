@@ -10,4 +10,6 @@
 
 ### browser-sync start --server --file . --host --port 5000 --startPath cadastro.html 
 
+Em seguida o projeto será iniciado. 
+
 ![img6](https://user-images.githubusercontent.com/101640343/190859075-0ad6b843-562c-478f-ac31-72ff5990753e.jpg)
